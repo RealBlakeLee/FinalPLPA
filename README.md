@@ -1,17 +1,15 @@
+```
 FinalPLPA/
-├── data/
-│   └── No Iron (Correct Format).xlsx
-|   ├── Microplate_Key.xlsx
-├── script/
-│   ├── Final_Project.Rmd
-├── output/
-│   ├── growth_curves.pdf
-│   └── summary_stats.csv
-├── figures/
+├── Data/
+│   ├── No Iron (Correct Format).xlsx
+│   └── Microplate_Key.xlsx
+├── Script/
+│   └── Final_Project.Rmd
+├── Output/
 │   └── 000014.png
-|
-|
 └── README.md
+```
+
 
 # 96-Well Bacterial Growth Curve Analysis
 For the use of generating publishable figures for 96-Well Plate Growth Curves
