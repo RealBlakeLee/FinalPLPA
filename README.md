@@ -16,8 +16,8 @@ For the use of generating publishable figures for 96-Well Plate Growth Curves
 
 # Prerequisites:
 1. Have RStudio Version 4.4.2
-2. 96-Well Plate must be in similar format to Example_Plate.xlsx
-3. A separate excel file as a "Key" - A file labeling each well. Unlabeled wells will automatically be marked as N/A. See Example_Key.xlsx for the specific format.
+2. 96-Well Plate must be in similar format to No Iron (Correct Format).xlsx
+3. A separate excel file as a "Key" - A file labeling each well. Unlabeled wells will automatically be marked as N/A. See Microplate_Key.xlsx for the specific format.
 
 # Steps
 1. Firstly, download Final_Project.Rmd
