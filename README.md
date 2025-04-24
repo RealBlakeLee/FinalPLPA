@@ -96,5 +96,3 @@ ggplot(merged_data, aes(x = Time_min, y = OD, color = Condition,
 
 Note: This is not the full code - just important snippits. If you are interested in reading the full code, it can be found in Final_Project.rmd
 
-# Result
-
